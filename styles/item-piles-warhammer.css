@@ -1,0 +1,7 @@
+/* Item Piles: Warhammer */
+
+.item-piles-warhammer-checks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+}

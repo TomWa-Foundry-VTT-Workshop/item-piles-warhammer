@@ -1,0 +1,51 @@
+{
+  "WHTRADE": {
+    "Title": "Item Piles: Warhammer",
+    "Currency": {
+      "wfrp4e": {
+        "gc": "{#} GC",
+        "ss": "{#} SS",
+        "bp": "{#} BP"
+      },
+      "whtow": {
+        "gold": "{#} G",
+        "silver": "{#} S",
+        "brass": "{#} B",
+        "goldName": "Gold",
+        "silverName": "Silver",
+        "brassName": "Brass"
+      },
+      "impmal": {
+        "solars": "{#} ♁",
+        "solarsName": "Solars"
+      },
+      "wrath-and-glory": {
+        "wealth": "{#} W",
+        "wealthName": "Wealth"
+      }
+    },
+    "Stock": {
+      "Menu": "Warhammer: stock merchant",
+      "Title": "Stock {merchant}",
+      "IntroTable": "Each item from the compendia is tested for availability with the system's own table; the stock comes from the same table (∞ = unlimited).",
+      "IntroRandom": "This system has no availability table: random items of the chosen kinds are added, one of each.",
+      "Location": {
+        "wfrp4e": "Settlement size",
+        "impmal": "World type"
+      },
+      "Rarities": {
+        "whtow": "Cost (status)",
+        "wrath-and-glory": "Rarity",
+        "age-of-sigmar-soulbound": "Availability"
+      },
+      "Types": "Goods",
+      "Limit": "At most this many different items",
+      "Modifier": "Availability test modifier",
+      "Replace": "Replace current goods of these kinds",
+      "Confirm": "Stock the merchant",
+      "NoTypes": "Pick at least one kind of goods.",
+      "Working": "Picking the goods…",
+      "Done": "{merchant}: {count} items added."
+    }
+  }
+}

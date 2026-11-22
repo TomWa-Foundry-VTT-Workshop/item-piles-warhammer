@@ -1,0 +1,51 @@
+{
+  "WHTRADE": {
+    "Title": "Item Piles: Warhammer",
+    "Currency": {
+      "wfrp4e": {
+        "gc": "{#} zk",
+        "ss": "{#} s",
+        "bp": "{#} p"
+      },
+      "whtow": {
+        "gold": "{#} zł",
+        "silver": "{#} sr",
+        "brass": "{#} m",
+        "goldName": "Złoto",
+        "silverName": "Srebro",
+        "brassName": "Mosiądz"
+      },
+      "impmal": {
+        "solars": "{#} ♁",
+        "solarsName": "Solary"
+      },
+      "wrath-and-glory": {
+        "wealth": "{#} B",
+        "wealthName": "Bogactwo"
+      }
+    },
+    "Stock": {
+      "Menu": "Warhammer: zaopatrz kupca",
+      "Title": "Zaopatrzenie: {merchant}",
+      "IntroTable": "Każdy przedmiot z kompendiów przechodzi test dostępności według tabeli systemu; zapas pochodzi z tej samej tabeli (∞ = bez limitu).",
+      "IntroRandom": "Ten system nie ma tabeli dostępności: dodawane są losowe przedmioty wybranych rodzajów, po jednym.",
+      "Location": {
+        "wfrp4e": "Wielkość osady",
+        "impmal": "Typ świata"
+      },
+      "Rarities": {
+        "whtow": "Koszt (status)",
+        "wrath-and-glory": "Rzadkość",
+        "age-of-sigmar-soulbound": "Dostępność"
+      },
+      "Types": "Towary",
+      "Limit": "Najwyżej tyle różnych przedmiotów",
+      "Modifier": "Modyfikator testu dostępności",
+      "Replace": "Zastąp obecne towary tego rodzaju",
+      "Confirm": "Zaopatrz kupca",
+      "NoTypes": "Wybierz co najmniej jeden rodzaj towaru.",
+      "Working": "Dobieranie towaru…",
+      "Done": "{merchant}: dodano {count} pozycji."
+    }
+  }
+}
