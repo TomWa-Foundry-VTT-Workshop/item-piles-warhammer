@@ -2,11 +2,13 @@
 
 [English](README.md) | **Polski**
 
+> **Dla tych systemów Warhammera w Foundry VTT:** Warhammer Fantasy Roleplay 4e/5e (`wfrp4e`), Warhammer: The Old World (`whtow`), Imperium Maledictum (`impmal`), Wrath & Glory (`wrath-and-glory`) i Age of Sigmar: Soulbound (`age-of-sigmar-soulbound`). W każdym innym systemie nic nie robi.
+
 Dodatek do [Item Piles](https://foundryvtt.com/packages/item-piles) dla **systemów Warhammera** w Foundry VTT. Jeden moduł ustawia walutę i ceny każdego systemu, ogranicza łupy i wymianę do przedmiotów fizycznych i pozwala MG w kilka sekund zaopatrzyć kupca według zasad dostępności samego systemu.
 
 To **nakładka na Item Piles, nie jego zamiennik**: oryginalny moduł [Item Piles](https://foundryvtt.com/packages/item-piles) jest wymagany i to on robi całą pracę (stosy, skarbce, kupcy, wymiana). Ten moduł tylko uczy go systemów Warhammera.
 
-Wymaga **Foundry VTT v14** i **Item Piles 3.3+** (instalowany automatycznie jako zależność). Nie włączaj razem ze starszym *Item Piles: WFRP4e* ani z *Item Piles: Warhammer Trade & Merchants* (poprzednia nazwa tego modułu).
+Wymaga **Foundry VTT v14** i **Item Piles 3.3+** (instalowany automatycznie jako zależność). Nie włączaj razem ze starszym *Item Piles: WFRP4e*.
 
 **Warhammer GM Suite** zachowuje zakładkę Kupcy: gdy ten moduł jest aktywny, GM Suite zostawia mu konfigurację Item Piles i korzysta z jego generatora towaru.
 

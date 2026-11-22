@@ -2,11 +2,13 @@
 
 **English** | [Polski](README.pl.md)
 
+> **For these Warhammer systems on Foundry VTT:** Warhammer Fantasy Roleplay 4e/5e (`wfrp4e`), Warhammer: The Old World (`whtow`), Imperium Maledictum (`impmal`), Wrath & Glory (`wrath-and-glory`) and Age of Sigmar: Soulbound (`age-of-sigmar-soulbound`). In any other system it does nothing.
+
 An [Item Piles](https://foundryvtt.com/packages/item-piles) add-on for the **Warhammer systems** on Foundry VTT. One module sets up each system's own currency and prices, keeps loot and trade to physical items, and lets the GM stock a merchant in seconds by the system's own availability rules.
 
 This is an **add-on for Item Piles, not a replacement**: the original [Item Piles](https://foundryvtt.com/packages/item-piles) module is required and does all the work (piles, vaults, merchants, trading). This module only teaches it the Warhammer systems.
 
-Requires **Foundry VTT v14** and **Item Piles 3.3+** (installed automatically as a dependency). Don't enable it together with the older *Item Piles: WFRP4e*
+Requires **Foundry VTT v14** and **Item Piles 3.3+** (installed automatically as a dependency). Don't enable it together with the older *Item Piles: WFRP4e*.
 
 **Warhammer GM Suite** keeps its Merchants tab: with this module active, the GM Suite leaves the Item Piles setup to it and uses its merchant stock generator.
 
