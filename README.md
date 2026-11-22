@@ -6,7 +6,7 @@ An [Item Piles](https://foundryvtt.com/packages/item-piles) add-on for the **War
 
 This is an **add-on for Item Piles, not a replacement**: the original [Item Piles](https://foundryvtt.com/packages/item-piles) module is required and does all the work (piles, vaults, merchants, trading). This module only teaches it the Warhammer systems.
 
-Requires **Foundry VTT v14** and **Item Piles 3.3+** (installed automatically as a dependency). Don't enable it together with the older *Item Piles: WFRP4e* or *Item Piles: Warhammer Trade & Merchants* (this module's previous name).
+Requires **Foundry VTT v14** and **Item Piles 3.3+** (installed automatically as a dependency). Don't enable it together with the older *Item Piles: WFRP4e*
 
 **Warhammer GM Suite** keeps its Merchants tab: with this module active, the GM Suite leaves the Item Piles setup to it and uses its merchant stock generator.
 
