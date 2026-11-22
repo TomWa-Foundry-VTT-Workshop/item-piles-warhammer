@@ -36,7 +36,7 @@ Physical items are recognised automatically (every item type with a quantity), s
 
 ### WFRP coin names
 
-Item Piles recognises coins by name, and WFRP coin names depend on the compendium language (*Gold Crown* or *Złota Korona*). The module picks each coin's name from the money items on characters, then the Items directory, then compendia. You can adjust the currencies later in the Item Piles settings, or detect them again with `game.modules.get("item-piles-warhammer").api.applyCurrencies()`.
+Item Piles recognises coins by name, and WFRP coin names depend on the compendium language. The module picks each coin's name from the money items on characters, then the Items directory, then compendia. You can adjust the currencies later in the Item Piles settings, or detect them again with `game.modules.get("item-piles-warhammer").api.applyCurrencies()`.
 
 ## 🛒 Merchant stock generator
 

@@ -36,7 +36,7 @@ Przedmioty fizyczne są rozpoznawane automatycznie (każdy typ przedmiotu z ilo�
 
 ### Nazwy monet w WFRP
 
-Item Piles rozpoznaje monety po nazwie, a nazwy w WFRP zależą od języka kompendiów (*Gold Crown* albo *Złota Korona*). Moduł bierze nazwę każdej monety z przedmiotów monet na kartach postaci, potem z katalogu przedmiotów, potem z kompendiów. Waluty można potem poprawić w ustawieniach Item Piles albo wykryć ponownie przez `game.modules.get("item-piles-warhammer").api.applyCurrencies()`.
+Item Piles rozpoznaje monety po nazwie, a nazwy w WFRP zależą od języka kompendiów. Moduł bierze nazwę każdej monety z przedmiotów monet na kartach postaci, potem z katalogu przedmiotów, potem z kompendiów. Waluty można potem poprawić w ustawieniach Item Piles albo wykryć ponownie przez `game.modules.get("item-piles-warhammer").api.applyCurrencies()`.
 
 ## 🛒 Generator towaru kupców
 
